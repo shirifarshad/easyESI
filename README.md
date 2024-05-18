@@ -1,5 +1,7 @@
 # easyESI
 
+Download link: https://mega.nz/file/b2AV3ZCL#gMR-zS-X5W--PXoA9HwBxixlziUWnynIaa6HzVTpKyo 
+
 **easyESI** is a Python application designed to streamline the extraction of thermodynamic data and Cartesian coordinates from Gaussian output or log files. It includes two subsidiary scripts: **GThermo** and **ESIGen**.
 
 **GThermo** is a Python script that extracts thermodynamic data from Gaussian output files. It specifically retrieves properties such as the sum of electronic and thermal enthalpies, the sum of electronic and thermal free energies, and 'SCF Done' values.
